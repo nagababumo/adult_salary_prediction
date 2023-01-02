@@ -1,12 +1,12 @@
 # adult_salary_prediction
 
-here we predicted the salary based on terms like hours_per_week , education_num , capital_loss.
+Target Variable : salary (<=50K, >50K)
 
 i scaled the data using standard_Scaler
 
 and i performed predictive analysis by logistic regression
 
-see the file to know about accuracy,confusion matrix,classification_report
+go through the file to know about accuracy,confusion matrix,classification_report
 
 
 i did this project with the  help of my basics in machine learning gained from fmml course (iiit hyd).  
